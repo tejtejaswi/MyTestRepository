@@ -8,5 +8,6 @@ public class MyTestRepositoryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyTestRepositoryApplication.class, args);
+		System.out.println("SpringBoot Application started");
 	}
 }
